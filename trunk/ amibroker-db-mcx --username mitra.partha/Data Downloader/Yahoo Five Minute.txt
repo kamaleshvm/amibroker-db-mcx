@@ -1,0 +1,12 @@
+Patni.ns
+Ucobank.ns
+Ranbaxy.ns
+Acc.ns
+Bhartiart.ns
+Indiacem.ns
+^NSEI
+Maruti.ns
+Infosystc.ns
+Titan.ns
+Rcom.ns
+Ambujacem.ns
