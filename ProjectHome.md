@@ -1,0 +1,1 @@
+Contains EOD and 1 minute data (for recent days) only for a few commodities of Indian MCX exchange (mcxindia.net)
